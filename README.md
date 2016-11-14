@@ -6,10 +6,6 @@ Witajcie na moim gicie, zanim cokolwiek dodacie radzę przeczytać tutka co czym
 
 Nasz skład:
 
-Aleksandrowicz Piotr
-Dudek Piotr
-Gos Konrad
-Rezner Adam
-Turkowska Katarzyna
+Aleksandrowicz Piotr, Dudek Piotr, Gos Konrad, Rezner Adam, Turkowska Katarzyna
 
 
